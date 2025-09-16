@@ -1,0 +1,263 @@
+{
+                "javascript": {
+                  "aliases": ["js", "javascript", "ecmascript", "es6", "es2015", "es2020"],
+                  "category": "programming",
+                  "weight": 1.0
+                },
+                "python": {
+                  "aliases": ["python", "python3", "py"],
+                  "category": "programming",
+                  "weight": 1.0
+                },
+                "java": {
+                  "aliases": ["java", "java8", "java11", "java17"],
+                  "category": "programming",
+                  "weight": 1.0
+                },
+                "react": {
+                  "aliases": ["react", "reactjs", "react.js"],
+                  "category": "frontend",
+                  "weight": 0.9
+                },
+                "nodejs": {
+                  "aliases": ["node", "nodejs", "node.js"],
+                  "category": "backend",
+                  "weight": 0.9
+                },
+                "html": {
+                  "aliases": ["html", "html5", "hypertext markup language"],
+                  "category": "frontend",
+                  "weight": 0.8
+                },
+                "css": {
+                  "aliases": ["css", "css3", "cascading style sheets"],
+                  "category": "frontend",
+                  "weight": 0.8
+                },
+                "sql": {
+                  "aliases": ["sql", "structured query language", "mysql", "postgresql"],
+                  "category": "database",
+                  "weight": 0.9
+                },
+                "mongodb": {
+                  "aliases": ["mongodb", "mongo", "nosql"],
+                  "category": "database",
+                  "weight": 0.8
+                },
+                "git": {
+                  "aliases": ["git", "version control", "github", "gitlab"],
+                  "category": "tools",
+                  "weight": 0.7
+                },
+                "angular": {
+                  "aliases": ["angular", "angularjs", "angular2", "angular4"],
+                  "category": "frontend",
+                  "weight": 0.8
+                },
+                "vue": {
+                  "aliases": ["vue", "vuejs", "vue.js"],
+                  "category": "frontend",
+                  "weight": 0.8
+                },
+                "express": {
+                  "aliases": ["express", "expressjs", "express.js"],
+                  "category": "backend",
+                  "weight": 0.7
+                },
+                "django": {
+                  "aliases": ["django", "python django"],
+                  "category": "backend",
+                  "weight": 0.8
+                },
+                "flask": {
+                  "aliases": ["flask", "python flask"],
+                  "category": "backend",
+                  "weight": 0.7
+                },
+                "spring": {
+                  "aliases": ["spring", "spring boot", "spring framework"],
+                  "category": "backend",
+                  "weight": 0.8
+                },
+                "docker": {
+                  "aliases": ["docker", "containerization"],
+                  "category": "devops",
+                  "weight": 0.8
+                },
+                "kubernetes": {
+                  "aliases": ["kubernetes", "k8s", "container orchestration"],
+                  "category": "devops",
+                  "weight": 0.9
+                },
+                "aws": {
+                  "aliases": ["aws", "amazon web services", "cloud computing"],
+                  "category": "cloud",
+                  "weight": 0.9
+                },
+                "azure": {
+                  "aliases": ["azure", "microsoft azure"],
+                  "category": "cloud",
+                  "weight": 0.8
+                },
+                "gcp": {
+                  "aliases": ["gcp", "google cloud platform", "google cloud"],
+                  "category": "cloud",
+                  "weight": 0.8
+                },
+                "machine-learning": {
+                  "aliases": ["machine learning", "ml", "artificial intelligence", "ai"],
+                  "category": "ai-ml",
+                  "weight": 1.0
+                },
+                "data-science": {
+                  "aliases": ["data science", "data analysis", "analytics"],
+                  "category": "data",
+                  "weight": 0.9
+                },
+                "tensorflow": {
+                  "aliases": ["tensorflow", "tf"],
+                  "category": "ai-ml",
+                  "weight": 0.8
+                },
+                "pytorch": {
+                  "aliases": ["pytorch", "torch"],
+                  "category": "ai-ml",
+                  "weight": 0.8
+                },
+                "pandas": {
+                  "aliases": ["pandas", "python pandas"],
+                  "category": "data",
+                  "weight": 0.7
+                },
+                "numpy": {
+                  "aliases": ["numpy", "numerical python"],
+                  "category": "data",
+                  "weight": 0.7
+                },
+                "excel": {
+                  "aliases": ["excel", "microsoft excel", "spreadsheet"],
+                  "category": "office",
+                  "weight": 0.6
+                },
+                "powerbi": {
+                  "aliases": ["power bi", "powerbi", "microsoft power bi"],
+                  "category": "analytics",
+                  "weight": 0.7
+                },
+                "tableau": {
+                  "aliases": ["tableau", "data visualization"],
+                  "category": "analytics",
+                  "weight": 0.7
+                },
+                "photoshop": {
+                  "aliases": ["photoshop", "adobe photoshop", "ps"],
+                  "category": "design",
+                  "weight": 0.7
+                },
+                "illustrator": {
+                  "aliases": ["illustrator", "adobe illustrator", "ai"],
+                  "category": "design",
+                  "weight": 0.7
+                },
+                "figma": {
+                  "aliases": ["figma", "ui design", "ux design"],
+                  "category": "design",
+                  "weight": 0.8
+                },
+                "sketch": {
+                  "aliases": ["sketch", "sketch app"],
+                  "category": "design",
+                  "weight": 0.7
+                },
+                "ui-design": {
+                  "aliases": ["ui design", "user interface design", "ui/ux"],
+                  "category": "design",
+                  "weight": 0.8
+                },
+                "ux-design": {
+                  "aliases": ["ux design", "user experience design", "ux research"],
+                  "category": "design",
+                  "weight": 0.8
+                },
+                "digital-marketing": {
+                  "aliases": ["digital marketing", "online marketing", "internet marketing"],
+                  "category": "marketing",
+                  "weight": 0.8
+                },
+                "seo": {
+                  "aliases": ["seo", "search engine optimization"],
+                  "category": "marketing",
+                  "weight": 0.7
+                },
+                "social-media": {
+                  "aliases": ["social media", "social media marketing", "smm"],
+                  "category": "marketing",
+                  "weight": 0.7
+                },
+                "content-writing": {
+                  "aliases": ["content writing", "copywriting", "content creation"],
+                  "category": "marketing",
+                  "weight": 0.7
+                },
+                "google-ads": {
+                  "aliases": ["google ads", "google adwords", "ppc"],
+                  "category": "marketing",
+                  "weight": 0.7
+                },
+                "facebook-ads": {
+                  "aliases": ["facebook ads", "fb ads", "meta ads"],
+                  "category": "marketing",
+                  "weight": 0.6
+                },
+                "accounting": {
+                  "aliases": ["accounting", "bookkeeping", "financial accounting"],
+                  "category": "finance",
+                  "weight": 0.8
+                },
+                "tally": {
+                  "aliases": ["tally", "tally erp", "tally prime"],
+                  "category": "finance",
+                  "weight": 0.7
+                },
+                "sap": {
+                  "aliases": ["sap", "sap erp", "systems applications products"],
+                  "category": "enterprise",
+                  "weight": 0.8
+                },
+                "project-management": {
+                  "aliases": ["project management", "pm", "project coordination"],
+                  "category": "management",
+                  "weight": 0.8
+                },
+                "agile": {
+                  "aliases": ["agile", "scrum", "agile methodology"],
+                  "category": "management",
+                  "weight": 0.7
+                },
+                "communication": {
+                  "aliases": ["communication", "verbal communication", "written communication"],
+                  "category": "soft-skills",
+                  "weight": 0.6
+                },
+                "teamwork": {
+                  "aliases": ["teamwork", "team collaboration", "team player"],
+                  "category": "soft-skills",
+                  "weight": 0.6
+                },
+                "leadership": {
+                  "aliases": ["leadership", "team leadership", "management"],
+                  "category": "soft-skills",
+                  "weight": 0.7
+                },
+                "problem-solving": {
+                  "aliases": ["problem solving", "analytical thinking", "critical thinking"],
+                  "category": "soft-skills",
+                  "weight": 0.7
+                },
+                "time-management": {
+                  "aliases": ["time management", "organization", "planning"],
+                  "category": "soft-skills",
+                  "weight": 0.6
+                }
+              }
+              
